@@ -1,0 +1,22 @@
+# Setup
+title:               JavaLand Vision
+tagline:             'Ideen und Lösungen für eine Hybrid-Konferenz 2021 '
+description:         'Aufgrund der Corona Pandemie wird auch die JavaLand 2021 noch nicht wieder gewohnt stattfinden können. Deshalb machen wir uns Gedanken, wie eine hybride Veranstaltung aussehen und vor allem für alle Beteiligten attraktiv sein könnte. Darüber wollen wir hier berichten und freuen uns über Feedback.'
+url:                 https://blog.ijug.eu
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  - name:            Falk Sippach
+    url:             https://twitter.com/sippsack
+    email:           falk@jug-da.de
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0
+google_analytics_id: #UA-XXXX-Y

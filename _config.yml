@@ -1,8 +1,8 @@
 # Setup
-title:               JavaLand Vision
-tagline:             'Ideen und Lösungen für eine Hybrid-Konferenz 2021 '
-description:         'Aufgrund der Corona Pandemie wird auch die JavaLand 2021 noch nicht wieder gewohnt stattfinden können. Deshalb machen wir uns Gedanken, wie eine hybride Veranstaltung aussehen und vor allem für alle Beteiligten attraktiv sein könnte. Darüber wollen wir hier berichten und freuen uns über Feedback.'
-url:                 https://blog.ijug.eu
+title:               Hybrid-Konferenz Vision
+tagline:             'Ideensammlung für hybride Veranstaltungen am Beispiel der JavaLand 2021'
+description:         'Aufgrund der Corona Pandemie wird auch die JavaLand 2021 noch nicht wieder gewohnt stattfinden können. Deshalb machen wir uns Gedanken, wie eine hybride Veranstaltung aussehen und vor allem für alle Beteiligten attraktiv sein könnte. Darüber wollen wir hier berichten und freuen uns über Feedback. Diskussionen bitte über den <a href="https://jvm-german.slack.com/archives/C4H2WGBL4">#javaland</a> Channel des JVM-German Slack Workspace (kostenlos <a href="https://slackin-jvm-german.herokuapp.com/">registrieren</a>)'
+url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty

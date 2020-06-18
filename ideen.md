@@ -15,3 +15,4 @@
 ** Variante wo ein Remote Teilnehmer mit einem Vor-Ort-Teilnehmer ein Spiel spielt
 * Remote Team-Events als Teil eines Pakets für Remote-Teilnahme (gegen Gebühr, TODO: Anbieter suchen)
 ** https://www.enigmania.de/dortmund/online-teamevents/
+** https://unsereschnitzeljagd.de/schnitzeljagd/digitales-teamevent-tvklassiker-buchen/

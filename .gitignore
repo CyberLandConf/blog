@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .jekyll-cache
+.jekyll-metadata
 
 # Numerous always-ignore extensions
 *.diff
@@ -15,6 +16,7 @@ _site
 *.zip
 *.vi
 *~
+*.lock
 
 # OS or Editor folders
 .DS_Store
@@ -41,5 +43,3 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
-
-Gemfile.lock

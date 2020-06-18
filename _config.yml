@@ -6,6 +6,12 @@ url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+incremental:         true
+github:
+  repo:              https://github.com/cyberlandconf/blog
+ijug:
+  web:              https://www.ijug.eu/
+  impressum:        https://www.ijug.eu/de/impressum/
 
 # About/contact
 author:

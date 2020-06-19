@@ -9,9 +9,15 @@ permalink:           pretty
 incremental:         true
 github:
   repo:              https://github.com/cyberlandconf/blog
+javaland:
+  web:              https://www.javaland.eu/
 ijug:
   web:              https://www.ijug.eu/
   impressum:        https://www.ijug.eu/de/impressum/
+  datenschutz:      https://www.ijug.eu/de/datenschutz/
+slack:
+  javaland:         https://jvm-german.slack.com/archives/C4H2WGBL4
+  register:         https://slackin-jvm-german.herokuapp.com/
 
 # About/contact
 author:

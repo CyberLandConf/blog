@@ -18,7 +18,7 @@
 * Einbeziehen von lokalen Communities (lokale JUG-Treffen parallel zur JavaLand)
 * attraktive Aussteller-Bereiche, über die unsere Sponsoren auch in den virtuellen Kontakt mit Teilnehmern und Sprechern treten können
 * Firmenpakete (Teilnahme von Gruppe von Kollegen) für die Finanzierung
-
+* virtuelle Sitzplätze bei Vorträgen: https://twitter.com/gazebo_c/status/1276062345370927111
 * Randomly pairing attendees for short (5 mins?) sessions to socialize
   - Chat Roulette
 * Remote Variante von Escape Room

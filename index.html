@@ -15,6 +15,11 @@ title: Home
     <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
 
     {{ post.content }}
+    
+    <div class="vision-info">
+      {{ site.comments }}
+    </div>
+
   </div>
   {% endfor %}
 </div>

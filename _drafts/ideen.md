@@ -3,11 +3,16 @@
 * noch zu Text ausformulieren
 * Reihenfolge in etwa die Veröffentlichungs-Prio
 
+
 * Was kann man einfach 1:1 übernehmen und was nicht?
+
 * virtuelle Treffpunkte für Hallway-Konversationen
 * möglichst viel Interaktion zw. Sprechern und Teilnehmern bei Remote-Vorträgen
+* Escape-Rooms
 * virtuelle Welten für die virtuellen Treffpunkte und die Interaktion zw. Sprechern und Teilnehmern
 * Remote-Workshops mit angenehmer Lernatmosphäre
+* Conference-Buddy
+* Moderatoren
 * Remote-Stammtische
 * Preise für Teilnehmer, insbesondere Remote-Teil, Unterscheidung zw. kostenfreien und kostenpflichtigen Angeboten mit Mehrwert
 * Einbeziehen von lokalen Communities (lokale JUG-Treffen parallel zur JavaLand)
@@ -29,6 +34,7 @@
 * Kopierschutz wie früher bei Infocom, Dinge per Post schicken, die man für Rätsel an dem Tag braucht
   - Teil von Care-Paket
 * Care Pakete in verschiedenen Ausbaustufen
+* Capture-the-Flag Challenges (Ralfs Mail)
 
 
 # Veröffentlicht

@@ -1,7 +1,8 @@
 # Setup
 title:               Hybrid-Konferenz Vision
 tagline:             'Ideensammlung für hybride Veranstaltungen'
-description:         'Aufgrund der Corona Pandemie werden viele Konferenzen, wie auch die JavaLand 2021, noch nicht wieder gewohnt stattfinden können. Deshalb machen wir uns Gedanken, wie eine hybride Veranstaltung aussehen und vor allem für alle Beteiligten attraktiv sein könnte. Darüber wollen wir hier berichten und freuen uns über Feedback. Diskussionen bitte über den <a href="https://jvm-german.slack.com/archives/C4H2WGBL4">#javaland</a> Channel des JVM-German Slack Workspace (<a href="https://slackin-jvm-german.herokuapp.com/">hier kostenlos registrieren</a>).'
+description:         'Aufgrund der Corona Pandemie werden viele Konferenzen, wie auch die JavaLand 2021, noch nicht wieder gewohnt stattfinden können. Deshalb machen wir uns Gedanken, wie eine hybride Veranstaltung (Vor-Ort-Durchführung mit Remote-Anteil) aussehen und vor allem für alle Beteiligten attraktiv sein könnte. Darüber wollen wir hier berichten und freuen uns über Feedback. Diskussionen bitte über den <a href="https://jvm-german.slack.com/archives/C4H2WGBL4">#javaland</a> Channel des JVM-German Slack Workspace (<a href="https://slackin-jvm-german.herokuapp.com/">hier kostenlos registrieren</a>).'
+comments:         'Kommentare bitte über den <a href="https://jvm-german.slack.com/archives/C4H2WGBL4">#javaland</a> Channel des JVM-German Slack Workspace (<a href="https://slackin-jvm-german.herokuapp.com/">hier kostenlos registrieren</a>).'
 url:                 ''
 baseurl:             ''
 paginate:            5
@@ -22,13 +23,16 @@ slack:
 # About/contact
 author:
   - name:            Tobias Frech
-    url:             https://twitter.com/TobiasFrech
+    image:           tobias-frech
+    twitter:         TobiasFrech
     email:           tobias@frech.info
   - name:            Sandra Parsick
-    url:             https://twitter.com/SandraParsick
+    image:           sandra-parsick
+    twitter:         SandraParsick
     email:           mail@sandra-parsick.de
   - name:            Falk Sippach
-    url:             https://twitter.com/sippsack
+    image:           falk-sippach
+    twitter:         sippsack
     email:           falk@jug-da.de
 
 # Gems

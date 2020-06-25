@@ -10,7 +10,7 @@
 * möglichst viel Interaktion zw. Sprechern und Teilnehmern bei Remote-Vorträgen
 * Escape-Rooms
 * virtuelle Welten für die virtuellen Treffpunkte und die Interaktion zw. Sprechern und Teilnehmern
-* Remote-Workshops mit angenehmer Lernatmosphäre
+* Remote-Workshops mit angenehmer Lernatmosphäre, Remote-First oder Trennen von vor Ort und Remote bei genug Interesse
 * Conference-Buddy
 * Moderatoren
 * Remote-Stammtische
@@ -19,6 +19,7 @@
 * attraktive Aussteller-Bereiche, über die unsere Sponsoren auch in den virtuellen Kontakt mit Teilnehmern und Sprechern treten können
 * Firmenpakete (Teilnahme von Gruppe von Kollegen) für die Finanzierung
 * virtuelle Sitzplätze bei Vorträgen: https://twitter.com/gazebo_c/status/1276062345370927111
+  * WebEx, vorbereitete Miro Frames, Mentimeter	
 * Randomly pairing attendees for short (5 mins?) sessions to socialize
   - Chat Roulette
 * Remote Variante von Escape Room

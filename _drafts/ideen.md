@@ -8,8 +8,10 @@
 
 * virtuelle Treffpunkte für Hallway-Konversationen
 * möglichst viel Interaktion zw. Sprechern und Teilnehmern bei Remote-Vorträgen
+* Sollen Moderatoren oder ZuhörerInnen schon während des Vortrags auf Fragen antworten und so interaktive Diskussion ermöglichen, welche die SprecherIn am Ende dann vielleicht noch kommentiert?
 * Escape-Rooms
 * virtuelle Welten für die virtuellen Treffpunkte und die Interaktion zw. Sprechern und Teilnehmern
+* durch Vorabregistrierung und Vernetzung könnten sich Kollegen oder bekannte vernetzten und während der Konferenz einfach sehen, wenn Buddies bei der gleichen Aktivität bzw. Vortrag sind
 * Remote-Workshops mit angenehmer Lernatmosphäre, Remote-First oder Trennen von vor Ort und Remote bei genug Interesse
 * Conference-Buddy
 * Moderatoren
@@ -32,6 +34,7 @@
 * Punktekarten zum Besuchen bestimmter Sessions
 * Sprecher bezahlen, dass sie nicht überall hingehen, ggf. exklusive Themen
   - eher unbekannte, neue Sprecher - Mehrwert für Teilnehmer
+  - für remote-Teilnehmer während des Talks permament eine durch die SprecherIn gestalteten Werbebereich einblenden
 * Kopierschutz wie früher bei Infocom, Dinge per Post schicken, die man für Rätsel an dem Tag braucht
   - Teil von Care-Paket
 * Care Pakete in verschiedenen Ausbaustufen

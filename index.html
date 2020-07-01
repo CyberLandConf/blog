@@ -14,12 +14,16 @@ title: Home
 
     <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
 
-    {{ post.content }}
-    
-    <div class="vision-info">
-      {{ site.comments }}
-    </div>
+    {{ post.excerpt }}
 
+    <div>
+      <a href="{{ post.url | absolute_url }}">
+        Weiterlesen ...
+      </a>
+      <br />
+      {% include read_time.html content=post.content %}
+   </div>
+    
   </div>
   {% endfor %}
 </div>

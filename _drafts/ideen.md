@@ -6,6 +6,8 @@
 
 * Was kann man einfach 1:1 übernehmen und was nicht?
 
+
+* Strukturen erklären: Wer ist die DOAG, DOAG Office, JavaLand GmbH und wer ist JUGs und iJUG bzw. die Komitees?
 * virtuelle Treffpunkte für Hallway-Konversationen
 * möglichst viel Interaktion zw. Sprechern und Teilnehmern bei Remote-Vorträgen
 * Sollen Moderatoren oder ZuhörerInnen schon während des Vortrags auf Fragen antworten und so interaktive Diskussion ermöglichen, welche die SprecherIn am Ende dann vielleicht noch kommentiert?

@@ -44,6 +44,7 @@
 * Capture-the-Flag Challenges (Ralfs Mail)
 * Personas (Zielgruppen beleuchten)
 * Community-Gedanken herausstellen
+* OBS als Tool: https://stac.works/articles/how-to-run-an-online-conference
 
 
 # Veröffentlicht

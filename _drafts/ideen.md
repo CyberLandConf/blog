@@ -4,7 +4,11 @@
 * Reihenfolge in etwa die Veröffentlichungs-Prio
 
 
-* Was kann man einfach 1:1 übernehmen und was nicht?
+1. Konferenz-Buddy I
+2. Warum nicht Youtube
+3. Deep Dive
+4. Escape
+5. Konferenz-Buddy 2 + 3
 
 
 * Strukturen erklären: Wer ist die DOAG, DOAG Office, JavaLand GmbH und wer ist JUGs und iJUG bzw. die Komitees?
@@ -45,6 +49,9 @@
 * Personas (Zielgruppen beleuchten)
 * Community-Gedanken herausstellen
 * OBS als Tool: https://stac.works/articles/how-to-run-an-online-conference
+* Streamyard (OBS im Browser)
+* Powerpoint Web Präsentation mit Transkription (sogar Übersetzung auf Englisch), Emojis, Feedback, Folien zurückblättern, aber max. wieder vor bis zur Folie des Sprechers
+* https://jug-saxony-day.org/meetandwatch/
 
 
 # Veröffentlicht

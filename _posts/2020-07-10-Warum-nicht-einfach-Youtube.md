@@ -19,5 +19,5 @@ Aus Sicht der Sprecher fehlt das direkte Feedback, wenn man nach dem Vortrag ins
 
 Bei den Sponsoren und Ausstellern stehen ganz klar wirtschaftliche Interesse im Vordergrund. Auch wenn der Swag schön bunt ist, so will man doch in erster Linie seine Produkte bzw. Dienstleistungen vorstellen oder auch den ein oder anderen neuen Mitarbeiter finden. Die besten Gespräche ergeben sich, weil ein williger Teilnehmer nur zufällig an der Kaffee-Schlange steht. Auch das fehlt bei Remoteveranstaltungen zunächst, das Übertragen der physischen Stände in virtuelle Ausstellerräume reicht dafür nicht aus.
 
-Als Besucher kann ein kompakter Tag mit meheren Vorträgen besser sein, als die Möglichkeiten bei Youtube (macht man ja sowieso nicht)
+Als Besucher kann ein kompakter Tag mit mehreren Vorträgen besser sein, als die Möglichkeiten bei Youtube (macht man ja sowieso nicht)
 Außerdem ausgewogene Mischung aus bekannten Sprechern aber auch nicht so häufig auftretenden und Newcomern.

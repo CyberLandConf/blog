@@ -9,10 +9,12 @@ Das hat sich auch die Platform [Conference Buddy](https://www.conferencebuddy.io
 Jetzt fragt Ihr euch, was hat das ganze mit einer Hybrid-Konferenz zu tun.
 Bei einer Hybrid-Konferenz können nicht alle vor Ort sein und die, die zu Hause bleiben, wollen etwas von der Konferenz vor Ort mitbekommen.
 Warum nicht das Konzept des Konferenz-Buddys neu denken?
+
 Das Konzept kann man in zwei Richtungen denken.
 Die eine Richtung ist, das Konzept komplett auf die virtuelle Welt zu übernehmen.
 Das heißt, statt alleine vor dem Rechner die Konferenz zu verfolgen, sucht sich jeder der möchte vor der Konferenz einen Remote-Konferenz-Buddy.
 So hat man während der Remote-Konferenz jemanden, mit dem man sich austauschen kann.
+
 Die zweite Richtung ist das Konzept hybrid zu überdenken.
 Was ist, wenn Konferenzteilnehmer vor Ort den Teilnehmer zu Hause etwas Konferenz-Feeling vermitteln könnten?
 Die Frage ist, wie könnte so was aussehen?

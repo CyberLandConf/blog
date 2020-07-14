@@ -53,6 +53,7 @@
 * Powerpoint Web Präsentation mit Transkription (sogar Übersetzung auf Englisch), Emojis, Feedback, Folien zurückblättern, aber max. wieder vor bis zur Folie des Sprechers
 * https://jug-saxony-day.org/meetandwatch/
 * Um Diskussionen in Gang zu bekommen zu TN interessiert zu halten den Content vorab als Pad/GDoc zur Verfügung stellen und alle Fragen annotieren lassen. Dann SP bitten auf die Fragen einzugehen.
+* Energizers regelmäßig einbauen, ggf. on demand
 
 
 # Veröffentlicht

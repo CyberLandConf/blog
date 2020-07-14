@@ -34,6 +34,14 @@ author:
     image:           falk-sippach
     twitter:         sippsack
     email:           falk@jug-da.de
+contributor:
+  - name:            Hendrik Ebbers
+    image:           hendrik-ebbers
+    twitter:         hendrikEbbers
+  - name:            Ralf Müller
+    image:           ralf-mueller
+    twitter:         RalfDMueller
+
 
 # Gems
 plugins:

@@ -4,15 +4,16 @@ title: Virtuelle Team Experience
 ---
 
 Konferenzbesuche können einen großen Beitrag für ein erfolgreiches Wissensmanagment in Unternehmen
-leisten. Aber sie sind nicht nur als reine Weiterbildungsmaßnahme zu betrachten, sie können sich auch
-positiv auf das Wir-Gefühl von Teams auswirken und die vernetzte Zusammenarbeit mit wichtigen externen 
-Partnern fördern. Viele dieser Vorteile werden stark von der physischen Präsenz der Teilnehmer getragen. 
-Eine große Herausforderung von Hybrid-Konferenzen ist es deshalb diese Team Experience auch in der virtuellen 
+leisten. Aber sie als als reine Weiterbildungsmaßnahme zu betrachten wäre zu kurz gegriffen. Denn 
+gemeinsame Konferenzbesuche können sich auch
+positiv auf das Wir-Gefühl von Teams auswirken und die vernetzte Zusammenarbeit von Teams mit wichtigen externen 
+Partnern fördern. Viele dieser Vorteile werden stark von der physischen Präsenz der Teilnehmer auf der Konferenz getragen. 
+Eine große Herausforderung von Hybrid-Konferenzen ist es deshalb die Team Experience auch in der virtuellen 
 Welt einer Hybridkonferenz erlebbar zu machen.
 
 ### Gemeinsame Konferenzbesuche stärken den Teamgeist
 Der gemeinsame Besuch von Konferenzen mit Kollgen aus dem eigenen Team oder der Organisation wirken 
-sich positiv auf das Wir-Gefühl und den Teamzusammenhalt aus. Man hat Zeit, um sich in einer 
+sich positiv auf den Teamgeist aus. Man hat Zeit, um sich in einer 
 ungezwungen Atmosphäre fernab vom Tagesgeschäft über die neusten Trends auszutauschen und abends
 an der Bar kommt auch der soziale Austausch nicht zu kurz. Man lernt die 
 Kollegen von einer ganz neuen Seite kennen und hinterher funktioniert die Zusammenarbeit im Team
@@ -30,11 +31,11 @@ den anderen Team-Mitgliedern vorgestellt. Gemeinsam wird diskutiert, welche Idee
 eigene Tagesgeschäft sind. Dies fördert die Kreativität und die Innovationsfähigkeit im Team enorm.
 Aber, wer kennt das nicht: Durch diese Art die Vortragsbesuche zu organisieren kann es dann vorkommen, 
 dass der Einzelne gefühlt immer 
-in den Sessions landet, die für die Persn am wenigsten interessant sind. Man erfährt dann 
+in den Sessions landet, die für die Person am wenigsten interessant sind. Man erfährt dann 
 leider erst in den Kaffeepausen, dass der Paralleltrack
 richtig gut gewesen wäre und genau die Inhalte transportiert hat, die für ein wichtiges 
 Inhouse-Projekt relevant gewesen wären. Sehr viel nutzstiftender wäre es in diesem Fall gewesen, 
-wenn das Projekt-Team geschlossen in der für ihr Projekt relevanten Session gewesen wären. Denn in 
+wenn das Projekt-Team geschlossen in der für ihr Projekt relevanten Session gewesen wäre. Denn in 
 einem guten Vortrag gibt es meist sehr viele verschiedene spannende Aspekte mit unterschiedlicher 
 Relevanz für die verschiedenen Experten und Skill-Level im Team. Optimal wäre es für 
 das Team, wenn es sich im Anschluß gemeinsam über den Vortrag austauschen könnte und auch 
@@ -57,27 +58,28 @@ eine virtuelle Konfernzlösung mit integrierter und Teamumgebung gäbe, die ohne
 auskommt und somit die perfekte virtuelle Konferenz-Experience bieten könnte. 
 
 Die Digitale-Teams-Plattform ist eine Open-Source-Kollaborations-Lösung für remote 
-                                      Teams, die mit Unterstützung des BMWi entwickelt wird. Sie könnte
+                                      Teams, die mit Unterstützung des Bundeswirtschaftsministerium (BMWi) entwickelt wird. Sie könnte
 eine vielversprechende Code-Basis für die Entwicklung einer integrierten Konferenzlösung sein, die die JavaLand als 
-Hybridkonfernez wieder zu einem besonderen Erlebnis macht.
+Hybridkonfernez zu einem besonderen Erlebnis für Teams macht.
 
 ### Hybridkonferenzen - Mehrwerte für Teams schaffen
-Die Digitale-Teams-Plattform denkt die virtuelle Arbeitsumgebung für Wissensarbeiter:innen, die 
-zeitlich und örtlich flexibel arbeiten möchten neu, und entwickelt innovative Features ausgehend von den 
+Die Digitale-Teams-Plattform "denkt" die digitale Arbeitsumgebung für Wissensarbeiter:innen, die 
+zeitlich und örtlich flexibel arbeiten möchten komplett neu, und entwickelt innovative Features ausgehend von den 
 Bedüfnissen von verteilten Teammitarbeitern.  Hierzu  wurden im Vorfeld zahlreiche Erhebungen, 
-beispielsweise Workshops, Interviews und Online-Umfragen mit Erfahrungsträgern
+u.a. Workshops, Interviews und Online-Umfragen mit Erfahrungsträgern
 durchgeführt. Die Anwendungen und Dienste der Digitale-Teams-Plattform können aber auch Mehrwerte für 
-Teams schaffen, die gemeinsam an einer Hybridkonferenz teilnehmen.
+Teams schaffen, die gemeinsam an einer Hybridkonferenz teilnehmen. Im folgenden einige Beispiele:
 
 #### Live-Stimmung im Meeting / Team - Live-Stimmung im Talk / Team
 In jeder Team-und Meetingumgebung der Digitale-Teams-Plattform kann ein Live-Indikator für die 
-Stimmung eingebunden werden. Die Mitglieder/Teilnehmer können anonmyisiert abstimmen und eine 
+Stimmung eingebunden werden. Die Mitglieder/Teilnehmer können anonmyisiert abstimmen, indem sie eine 
 bestimmte Anzahl von Punkten auf Gegensatzpaare verteilen, wie in der folgenden 
-Abbildung dargestellt. Je mehr Punkte ein Bubble hat, umso größer wird sie dargestellt. Die 
-entgegengesetzte Bubble entsprechend kleiner.
+Abbildung dargestellt. 
 
 TODO: Abbildung
 
+Je mehr Punkte ein Bubble hat, umso größer wird sie dargestellt. Die 
+entgegengesetzte Bubble wird entsprechend kleiner.
 Mögliche Gegensatzpaare für die Live-Stimmung in einem Talk oder Stream könnten sein:
 
 * Sprecher gut verständlich - Schlechte Tonqualität
@@ -87,7 +89,7 @@ Mögliche Gegensatzpaare für die Live-Stimmung in einem Talk oder Stream könnt
 * Vortrag interessant - Vortrag bietet wenig Neues
 
 Dadurch hätten nicht nur die Teilnehmer einen guten Indikator, ob die Session ggf. gewechselt werden 
-sollte, auch der Speaker erhält ein Live-Feedback und kann sich ggf. auf die Bedürfnisse der
+sollte, auch der Speaker erhält ein Live-Feedback und kann sich im Idealfall auf die Bedürfnisse der
 Teilnehmer besser einstellen.
 
 #### Live-Transkription im Meeting - Live-Transkription im Talk
@@ -104,13 +106,13 @@ wären dann nicht mehr auf englischsprachige Talks beschärnkt.
 
 #### Integrierter Teamchat - Wissen teilen
 In der Teamumgebung der Digitale-Teams-Lösung gibt es einen integrierten Teamchat. Das Team kann sich
-so auf der Konferenz auf dem Laufenden halten. Welche Vorträge sind beispielsweise zum aktuellsten 
+so auf der Konferenz auf dem Laufenden halten: Welche Vorträge sind beispielsweise zum aktuellsten 
 Zeitpunkt am
-spannendsten und relevantesten für die team-eigene Konferenz-Agenda? Die Team-Mitglieder können ohne
+relevantesten für die team-eigene Konferenz-Agenda? Die Team-Mitglieder können ohne
 Medienbruch Notizen, Sketchnotes oder Screenshots untereinander teilen. Sprecher-Zitate und Insights
 aus den Talks 
 können per Copy & Paste aus der Live-Transkrtition in den Chat, die gemeinsamen Notes oder 
-Social-Media-Posts einfach übertragen werden. Dies fördert die Interaktion und trägt dazu bei, dass alle 
+Social-Media-Posts direkt übertragen werden. Dies fördert die Interaktion und trägt dazu bei, dass alle 
 committed bleiben und aktiv an der Team-Challenge mitarbeiten.
 
 
@@ -119,7 +121,7 @@ Wissensarbeiter:innen die remote und insbesondere im Homeoffice arbeiten, sollte
 Arbeitstages kurz Zeit nehmen, um den eigenen Arbeitstag zu strukturieren und insbesondere auch
 Pausenzeiten einzuplanen. Durch die Entgrenzung werden Pausen häufig vergessen, was zu Erschöpfung
 führen kann. Die Digitale-Teams-Lösung bietet einen Widget, der Wissensarbeiter:innen dabei 
-unterstützt den eigenen Tag zu planen und zu strukturieren. Insbesondere kann dabei auch die 
+unterstützt den eigenen Tag zu planen und zu strukturieren. Insbesondere können dabei auch  
 Freizeit, sowie Fokuszeiten zu denen man ungestört arbeiten möchte, explizit geplant werden. Aus
 den Daten der Tagesplanung errechnet die Plattform dann eine Verfügbarkeitsanzeige, die allen 
 anderen Teammitgliedern transparent macht, wann die Teamkollegen erreichar und ansprechbar sind. Die
@@ -130,22 +132,22 @@ TODO: Abbildungen
 Mit der Tagesplanung könnten die Teilnehmer auch ihren Tag auf der JavaLand planen und damit ihren 
 Kollegen und den anderen Teilnehmern transparent machen, wann welche Session besucht wird, wann die
 Person vorhat eine Pause zu machen usw. Die daraus resultierende Verfügbarkeitsanzeige ist natürlich 
-insbesondere auch interessant, wenn Teilnehmer auf der Konferenz gezielt bestimmte Personen ansprechen
+insbesondere auch interessant für Teilnehmer, die auf der Konferenz gezielt bestimmte Personen ansprechen
 möchten. Ein interessantes Feature könnte auch sein, dass man diesen Personen und insbesondere auch den Sprechern
-Terminanfragen für einen One-to-one-Austausch schicken könnte, sofern die Person laut Tagesplanung
+Terminanfragen für einen One-to-one-Austausch schicken könnte, zu den Zeiten in denen die Person laut Tagesplanung
 noch verfügbar ist.
 
 #### Virtuelle Kaffeeküche - Virtuelles JUG-Cafe 
 Da die digitale Kommunikation tendenziell eher sachbezogen ist, ist es wichtig bei Digitalen Teams
 darauf zu achten, dass die soziale Interaktion nicht zu kurz kommt. Dies ist wichtig für die 
-Entstehung von Teamgeist und leistungsfähigen Teams. Daher gibt es in der Roadmap von Digitale Teams
+Entstehung von Vertrauen im Team. Daher gibt es in der Roadmap von Digitale Teams
 auch erste Ideen für eine virtuelle Kaffeeküche, die über die Funktionalitäten eines Chats oder 
 virtuellen Meetingraums hinausgeht. Ein Hauptkritikpunkt von Videokonferenz-Räumen ist die Tatsache,
 dass immer nur eine Person gleichzeitig sprechen kann. Es ist nicht möglich, dass sich dynamisch
 Grüppchen bilden, wie in einer echten Kaffeeküche. Ideen für die Realisierung von Kaffeeküchen mit 
 dynamischen Untergruppen bietet beispielsweise die App Gather.town (TODO: LINK). Hier können die Teilnehmer einen
 Avatar in einer 2D-Welt bewegen. Abhängig von der Distanz der Avatare werden Kamerabild und Tonausgabe 
-aktiviert. Ein interessanter Ansatz für eine Open-Source-Contribution zur Digitale-Teams-Plattform. 
+aktiviert. Ein interessanter Ansatz für eine Open-Source-Contribution zur Digitale-Teams-Plattform! 
 Im Rahmen einer Hybridkonferenz könnte damit der virtuelle Hallway-Track umgesetzt werden, für die 
 JavaLand bietet sich auch das virtuelle JUG-Cafe an.
 
@@ -155,7 +157,7 @@ Ihr seht, es gibt sehr viele spannende Ideen, wie man die JavaLand für Teams zu
 virtuellen Erlebnis mahchen kann. Was haltet ihr von einer möglichen Kooperation mit dem Open-Source-Projekt 
 Digitale Teams und wäre es interessant für euch an der Gesamtlösung für die JavaLand mit zu arbeiten?
 In einem späteren Blogpost teilen wir gerne mit euch weitere Details, insbesondere natürlich die 
-technischen Details und Konzepte! 
+technischen Details und Plattform-Konzepte! 
 
 
 

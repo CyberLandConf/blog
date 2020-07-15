@@ -22,10 +22,6 @@ slack:
 
 # About/contact
 author:
-  - name:            Tobias Frech
-    image:           tobias-frech
-    twitter:         TobiasFrech
-    email:           tobias@frech.info
   - name:            Sandra Parsick
     image:           sandra-parsick
     twitter:         SandraParsick
@@ -34,6 +30,19 @@ author:
     image:           falk-sippach
     twitter:         sippsack
     email:           falk@jug-da.de
+  - name:            Tobias Frech
+    image:           tobias-frech
+    twitter:         TobiasFrech
+    email:           tobias@frech.info
+
+contributor:
+  - name:            Hendrik Ebbers
+    image:           hendrik-ebbers
+    twitter:         hendrikEbbers
+  - name:            Ralf Müller
+    image:           ralf-mueller
+    twitter:         RalfDMueller
+
 
 # Gems
 plugins:

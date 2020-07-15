@@ -13,3 +13,14 @@ Feedback und Diskussionen bitte im [#javaland]({{ site.slack.javaland }}) Kanal 
 ###  {{ author.name }} {% if author.twitter %}([@{{ author.twitter }}](https://twitter.com/{{ author.twitter }})){% endif %}
 <img src="/public/images/{{author.image}}.png" class="pic" />
 {% endfor %}
+
+
+
+## Weitere Beitragende
+
+Vielen Dank für das Einbringen von Ideen, das Bereitstellen von Texten und das Korrekturlesen.
+
+{% for author in site.contributor %}
+###  {{ author.name }} {% if author.twitter %}([@{{ author.twitter }}](https://twitter.com/{{ author.twitter }})){% endif %}
+<img src="/public/images/{{author.image}}.png" class="pic" />
+{% endfor %}

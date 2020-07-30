@@ -1,73 +1,39 @@
 ---
 layout: post
-title: Virtuelle Team Experience
+title: Mit digitalen Zusatzangeboten Hybrid-Konferenzen zu einem besonderen Erlebnis machen
 ---
 
+### Konferenzbesuche als Team-Building-Maßname
 Konferenzbesuche können einen großen Beitrag für ein erfolgreiches Wissensmanagment in Unternehmen
 leisten. Aber sie als als reine Weiterbildungsmaßnahme zu betrachten wäre zu kurz gegriffen. Denn 
 gemeinsame Konferenzbesuche können sich auch
-positiv auf das Wir-Gefühl von Teams auswirken und die vernetzte Zusammenarbeit von Teams mit wichtigen externen 
-Partnern fördern. Viele dieser Vorteile werden stark von der physischen Präsenz der Teilnehmer auf der Konferenz getragen. 
+positiv auf das Wir-Gefühl von Teams auswirken und die vernetzte Zusammenarbeit mit wichtigen externen 
+Partnern fördern. Deswegen nutzen auch sehr viele Firmen Konferenzen als  Team-Building-Maßnahme und ermöglichen es häufig auch ganzen Teams oder Abteilungen gemeinsam an 
+einer Konfernz teilzunehmen. Allerdeings werden viele dieser Vorteile von der physischen Präsenz der Teilnehmer auf Konferenzen getragen. 
 Eine große Herausforderung von Hybrid-Konferenzen ist es deshalb die Team Experience auch in der virtuellen 
 Welt einer Hybridkonferenz erlebbar zu machen.
 
-### Gemeinsame Konferenzbesuche stärken den Teamgeist
-Der gemeinsame Besuch von Konferenzen mit Kollgen aus dem eigenen Team oder der Organisation wirken 
-sich positiv auf den Teamgeist aus. Man hat Zeit, um sich in einer 
-ungezwungen Atmosphäre fernab vom Tagesgeschäft über die neusten Trends auszutauschen und abends
-an der Bar kommt auch der soziale Austausch nicht zu kurz. Man lernt die 
-Kollegen von einer ganz neuen Seite kennen und hinterher funktioniert die Zusammenarbeit im Team
-umso reibungsloser. Deswegen nutzen auch sehr viele Firmen Konferenzen als 
-Team-Building-Maßnahme und ermöglichen es häufig auch ganzen Teams oder Abteilungen gemeinsam an 
-einer Konfernz teilzunehmen. 
-
-### Konferenzbesuche als Weiterbildungsmaßnahme
-Neben diesem Team-Building-Effekt ist natürlich auch die Weiterbildung 
-ein wichtiger Aspekt. Teams begreifen es häufig als Challenge den maximalen Wissensoutcome für ihre
-eigenen Themen und Projekte mit nach Hause zu nehmen. An dieser gemeinsamen Aufgabe arbeitet das 
-Team während der gesamten Konferenz. Vor und während der Konferenz stimmen sich die Teams 
-untereinander ab, wer welchen Talk besucht. Im Nachgang werden Folien ausgetauscht und
-den anderen Team-Mitgliedern vorgestellt. Gemeinsam wird diskutiert, welche Ideen sinnvoll für das 
-eigene Tagesgeschäft sind. Dies fördert die Kreativität und die Innovationsfähigkeit im Team enorm.
-Aber, wer kennt das nicht: Durch diese Art die Vortragsbesuche zu organisieren kann es dann vorkommen, 
-dass der Einzelne gefühlt immer 
-in den Sessions landet, die für die Person am wenigsten interessant sind. Man erfährt dann 
+### Hybridkonferenzen und virtuelle Zusatzangebote als Chance begreifen
+Trotz der Nachteile, die sich durch die virtuelle Durchführung ergeben, gibt es auch Chancen und 
+Potentiale, die sich durch die Digitalisierung ergeben und die dazu beitragen können, dass die Konferenzbesucher
+durch virtuelle Zusatzangebote mehr Vorteile realisieren können als durch eine reine Präsenzveranstaltung.
+Das folgende Problem dürfte den meisten Konferenztbesuchern nur zu gut bekannt sein: Man landet gefühlt 
+immer genau
+in den Sessions, die am wenigsten interessant sind. Man erfährt dann 
 leider erst in den Kaffeepausen, dass der Paralleltrack
 richtig gut gewesen wäre und genau die Inhalte transportiert hat, die für ein wichtiges 
-Inhouse-Projekt relevant gewesen wären. Sehr viel nutzstiftender wäre es in diesem Fall gewesen, 
-wenn das Projekt-Team geschlossen in der für ihr Projekt relevanten Session gewesen wäre. Denn in 
-einem guten Vortrag gibt es meist sehr viele verschiedene spannende Aspekte mit unterschiedlicher 
-Relevanz für die verschiedenen Experten und Skill-Level im Team. Optimal wäre es für 
-das Team, wenn es sich im Anschluß gemeinsam über den Vortrag austauschen könnte und auch 
-diskutieren könnte, welche Aspekte für welches Team-Mitglied als besonders relevant eingesutft 
-werden.
-
-### Hybridkonferenzen als Team-Challenge begreifen
-Trotz der Nachteile, die sich durch die virtuelle Durchführung ergeben, gibt es auch Chancen und 
-Potentiale, die sich durch die Digitalisierung ergeben und die Teams dabei unterstützen können 
-ihre persönlichen Team-Challenges auf Konferenzen zielgerichteter und effizienter zu verfolgen. 
-Hierfür ist es eforderlich, dass den Teilnehmern neben den  Vortrags-Streams
-auch eine eigenen virtuelle Team-Umgebung bereitgestellt wird, die es ihnen erlaubt die 
- eigene Team-Challenge 
-optimal zu organisieren, den Wissensaustausch im Team zu erleichten und die Kreativität im Team zu fördern.
+Inhouse-Projekt relevant gewesen wären. Eine Session zu wechseln ist umständlich und lohnt meist auch nicht, 
+weil man den anderen Sessions
+häufig nur noch schwer folgen kann, wenn man den Anfang erstmal verpasst hat. Durch digitale Zusatzangebote
+könnte diese negative Konferenzerfahrung verhindert werden. Doch dazu später mehr.
+ 
 
 ### Die Digitale Teams Plattform 
-Hier gibt es natürlich bereits bestehende kommerzielle Kollaborationslösungen die den remote Teilnehmern
-als Add-On zum Konferenzticket zur Verfügung gestellt werden könnten. Noch schöner wäre es, wenn es 
-eine virtuelle Konfernzlösung mit integrierter und Teamumgebung gäbe, die ohne Medienbrüche 
-auskommt und somit die perfekte virtuelle Konferenz-Experience bieten könnte. 
-
-Die Digitale-Teams-Plattform ist eine Open-Source-Kollaborations-Lösung für remote 
-                                      Teams, die mit Unterstützung des Bundeswirtschaftsministerium (BMWi) entwickelt wird. Sie könnte
-eine vielversprechende Code-Basis für die Entwicklung einer integrierten Konferenzlösung sein, die die JavaLand als 
-Hybridkonfernez zu einem besonderen Erlebnis für Teams macht.
-
-### Hybridkonferenzen - Mehrwerte für Teams schaffen
-Die Digitale-Teams-Plattform "denkt" die digitale Arbeitsumgebung für Wissensarbeiter:innen, die 
-zeitlich und örtlich flexibel arbeiten möchten komplett neu, und entwickelt innovative Features ausgehend von den 
-Bedüfnissen von verteilten Teammitarbeitern.  Hierzu  wurden im Vorfeld zahlreiche Erhebungen, 
-u.a. Workshops, Interviews und Online-Umfragen mit Erfahrungsträgern
-durchgeführt. Die Anwendungen und Dienste der Digitale-Teams-Plattform können aber auch Mehrwerte für 
+Mit zukunftsweisenden Tools und Technologien für Teams, die verteilt und flexibel arbeiten möchten 
+beschäftigt sich bereits das Forschungsprojekt Digitale Teams. Entwicklungspartner sind unter anderem 
+die Fraunhofer Gesellschaft, Microsoft und eine Ausgründung des Deutschen 
+Forschungszentrums für Künstliche Intelligenz, die insiders technologies. Bis Anfang 2021 entsteht eine Open Source Lösung für
+Digitale Teams. Die Anwendungen und Dienste der Digitale-Teams-Plattform können aber auch Mehrwerte für 
 Teams schaffen, die gemeinsam an einer Hybridkonferenz teilnehmen. Im folgenden einige Beispiele:
 
 #### Live-Stimmung im Meeting / Team - Live-Stimmung im Talk / Team

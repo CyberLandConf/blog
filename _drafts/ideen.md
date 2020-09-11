@@ -1,5 +1,12 @@
 # Ideen 
 
+## allgemein
+
+* Mehrwert der Ideen gegenüber anderen Remote-/Hybrid-Konferenzen herausstellen
+* Vorteile von digitale Teams Plattform herausarbeiten und die neuen Ideen als Art Customer Journey für die noch hinzuzufügenden Features dokumentieren.
+
+## Post-Ideen
+
 * noch zu Text ausformulieren
 * Reihenfolge in etwa die Veröffentlichungs-Prio
 
@@ -11,6 +18,8 @@
 5. Konferenz-Buddy 2 + 3
 
 
+
+* Technik-Check/Speaker Seminar vor der Konferenz, einmal kurz die Technik erklären und offene Fragen diskutieren (gut geklappt bei JCON mit > 65 Teilnehmern, auch interessant waren die Pre-Events bei Accento)
 * Strukturen erklären: Wer ist die DOAG, DOAG Office, JavaLand GmbH und wer ist JUGs und iJUG bzw. die Komitees?
 * virtuelle Treffpunkte für Hallway-Konversationen
 * möglichst viel Interaktion zw. Sprechern und Teilnehmern bei Remote-Vorträgen
@@ -54,6 +63,9 @@
 * https://jug-saxony-day.org/meetandwatch/
 * Um Diskussionen in Gang zu bekommen zu TN interessiert zu halten den Content vorab als Pad/GDoc zur Verfügung stellen und alle Fragen annotieren lassen. Dann SP bitten auf die Fragen einzugehen.
 * Energizers regelmäßig einbauen, ggf. on demand
+* JUG Saxony Day: Meet & Watch Events + Vorstellung der Sprecher mit kurzem Video auf Twitter
+* Care-Paket https://jconf.dev/
+* https://www.codingame.com/start
 
 
 # Veröffentlicht
